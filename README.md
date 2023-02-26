@@ -7,10 +7,15 @@ ff
  
 我是noffmerge分支上提交的东西
 
+<<<<<<< HEAD
 hello,i am abc 
 hello,i am dev
 
 
 
 
-devbbbbbb
+devbbbbbb 
+
+
+abcbbbb
+>>>>>>> abc
