@@ -20,8 +20,14 @@ devbbbbbb
 abcbbbb
 >>>>>>> abc
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 我喜欢stash空间
 =======
 暂存可以stashma
+>>>>>>> Stashed changes
+=======
+
+
+i like stash area
 >>>>>>> Stashed changes
