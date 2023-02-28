@@ -19,3 +19,9 @@ devbbbbbb
 
 abcbbbb
 >>>>>>> abc
+<<<<<<< Updated upstream
+
+我喜欢stash空间
+=======
+暂存可以stashma
+>>>>>>> Stashed changes
